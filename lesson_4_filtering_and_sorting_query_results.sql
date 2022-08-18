@@ -1,0 +1,1 @@
+-- 1. List all directors of Pixar movies (alphabetically), without duplicates
