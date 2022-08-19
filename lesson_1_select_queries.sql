@@ -12,3 +12,7 @@ SELECT title, year FROM movies;
 
 -- 5. Find all the information about each film
 SELECT * FROM movies;
+
+/* 
+    The basic SQL SELECT syntax is introduced here. Not really much to say, just list the column names whose values you want to return, or use a * to show all.
+*/
