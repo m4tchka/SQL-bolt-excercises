@@ -16,3 +16,8 @@ LIMIT 5;
 SELECT title FROM movies 
 ORDER BY title ASC 
 LIMIT 5 OFFSET 5;
+
+/* 
+    The ORDER BY is used to sort the data alphanumerically by the values of a column, in  ascending/ descending order, before returning it. 
+    LIMIT is used to show a set number of columns from the database, by default, from the first entries downwards, but the OFFSET can also be used to specify from where exactly to start counting the rows to be returned.
+*/

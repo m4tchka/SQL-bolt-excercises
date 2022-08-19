@@ -29,3 +29,7 @@ SELECT * FROM north_american_cities
 WHERE country LIKE "united%"
 ORDER BY population DESC
 LIMIT 2 OFFSET 2;
+
+/* 
+    This lesson simply combines the clauses from previous lessons, SELECT, FROM, WHERE ( =/LIKE (%/_) ), ORDER BY(ASC/DESC) and LIMIT (OFFSET)
+*/
